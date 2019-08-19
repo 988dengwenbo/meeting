@@ -1,0 +1,5 @@
+user_name = '#root > div > div > section > div.banner-cont > div.suspension > div > div > div:nth-child(2) > input[type=text]'
+password = '#root > div > div > section > div.banner-cont > div.suspension > div > div > div:nth-child(3) > input[type=password]'
+login = '#root > div > div > section > div.banner-cont > div.suspension > div > div > div.login-btn > a'
+remeber_password = '#root > div > div > section > div.banner-cont > div.suspension > div > div.login-cont > div.login-check > label'
+forget_password = '#root > div > div > section > div.banner-cont > div.suspension > div > div.login-cont > div.login-check > a'
