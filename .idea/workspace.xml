@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2437a905-5c03-4829-83c1-fb02bef7b733" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/init.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/PC/createMeeting_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/PC/createMeeting_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/PC/login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/PC/login_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comnon/open_broswer.py" beforeDir="false" afterPath="$PROJECT_DIR$/comnon/open_broswer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comnon/time_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/comnon/time_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elems/pc/creatMeetings.py" beforeDir="false" afterPath="$PROJECT_DIR$/elems/pc/creatMeetings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elems/pc/meeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/elems/pc/meeting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#14#32#0" expanded="true" />
               </folding>
@@ -101,6 +92,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -131,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="205" />
     <option name="y" value="36" />
     <option name="width" value="1400" />
@@ -326,7 +320,7 @@
       <workItem from="1566790407304" duration="599000" />
       <workItem from="1566871442918" duration="603000" />
       <workItem from="1566883835567" duration="794000" />
-      <workItem from="1568171546990" duration="4190000" />
+      <workItem from="1568171546990" duration="4684000" />
     </task>
     <task id="LOCAL-00001" summary="hhhhhhh">
       <created>1565863824705</created>
@@ -349,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566180131496</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="编码">
+      <created>1568193339120</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568193339120</updated>
+    </task>
+    <task id="LOCAL-00005" summary="编码">
+      <created>1568193615093</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568193615093</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -385,7 +393,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91587000" />
+    <option name="totallyTimeSpent" value="92081000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -398,9 +406,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="205" y="36" width="1400" height="963" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2335821" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2335821" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -413,7 +420,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3293124" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.3293124" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -451,7 +458,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hhhhhhh" />
-    <option name="LAST_COMMIT_MESSAGE" value="hhhhhhh" />
+    <MESSAGE value="编码" />
+    <option name="LAST_COMMIT_MESSAGE" value="编码" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -636,8 +644,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#14#32#0" expanded="true" />
           </folding>
