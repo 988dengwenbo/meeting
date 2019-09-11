@@ -24,6 +24,7 @@ def create_suite():
     return test_unit
 
 
+
 '''执行用例，生成测试报告'''
 test_report = './report/'
 time = time.strftime('%Y_%m_%d_%H_%M_%S')
