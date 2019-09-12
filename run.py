@@ -24,7 +24,10 @@ def create_suite():
     return test_unit
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> fbd393844e58d28832b7794fbada854531f34938
 '''执行用例，生成测试报告'''
 test_report = './report/'
 time = time.strftime('%Y_%m_%d_%H_%M_%S')
@@ -39,4 +42,8 @@ fp.close()
 cwd_path = os.getcwd()
 file_url = 'file:////' + cwd_path + report_name[1:]
 report = open_broswer.WebClient(file_url)
+<<<<<<< HEAD
 report.run_chrome()
+=======
+report.run_chrome()
+>>>>>>> fbd393844e58d28832b7794fbada854531f34938

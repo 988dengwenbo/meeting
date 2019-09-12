@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import math
 
 
@@ -31,3 +32,26 @@ def get_time_module_day(hours,min):
 
 print(pc_time_module_week(1))
 print(get_time_module_day(0,15))
+=======
+def pc_time_module_week(num):
+    if num == 0:
+        return num
+    elif num == 1:
+        return num
+    elif num == 2:
+        return num
+    elif num == 3:
+        return num
+    elif num == 4:
+        return num
+    elif num == 5:
+        return num
+    elif num == 6:
+        return num
+
+def get_time_module_day(num):
+    ...
+    ...
+    123321132
+    ...
+>>>>>>> fbd393844e58d28832b7794fbada854531f34938
