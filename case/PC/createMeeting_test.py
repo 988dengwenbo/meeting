@@ -11,7 +11,6 @@ class CreatMeeting(unittest.TestCase):
         '''普通会议室创建一个会议,会议室名称为普通会议室'''
         '''获取当前时间'''
 
-
         self.__driver = login_test.Login.test_login001()
         self.__driver.click_element(cM.yuyue)
         '''获取普通会议室所有位置'''

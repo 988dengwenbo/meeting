@@ -8,11 +8,13 @@ from comnon import open_broswer
 
 
 def create_suite():
-    '''在case包下，获取测试用例'，并添加早测试套件'''
+    '''在case包下，获取测试用例'，并添加测试套件'''
     test_dir = 'case'
     test_unit = unittest.TestSuite()
-    tests = unittest.defaultTestLoader.discover(test_dir, pattern='*_test.py',top_level_dir=None)
+    tests = unittest.defaultTestLoader.discover(test_dir, pattern='*_test.py', top_level_dir=None)
+    print(tests)
     for test_suit in tests:
+        print(test_suit)
         for test in test_suit:
             p = re.compile(r'<unittest.suite.TestSuite tests=\[<(APP|PC|displayboard)\.(.*?)\.')
             search = p.search(str(test))
@@ -35,8 +37,8 @@ runner.run(create_suite()) #运行测试用例
 fp.close()
 
 '''用例执行完，自动在浏览器中打开测试报告'''
-cwd_path = os.getcwd()
-file_url = 'file:////' + cwd_path + report_name[1:]
-report = open_broswer.WebClient(file_url)
-report.run_chrome()
+# cwd_path = os.getcwd()
+# file_url = 'file:////' + cwd_path + report_name[1:]
+# report = open_broswer.WebClient(file_url)
+# report.run_chrome()
 
