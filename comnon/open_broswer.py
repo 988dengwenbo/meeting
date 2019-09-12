@@ -14,10 +14,8 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from comnon import com_module
-<<<<<<< HEAD
 from comnon import time_module as tm
-=======
->>>>>>> fbd393844e58d28832b7794fbada854531f34938
+
 
 '''
 http://npm.taobao.org/mirrors/chromedriver/
@@ -456,12 +454,10 @@ class WebClient():
     def date_to_num():
         localtime = time.localtime(time.time())
         print(localtime)
-<<<<<<< HEAD
         day = tm.pc_time_module_week(localtime[6])
         hour = tm.get_time_module_day(localtime[3], localtime[4])
         return [day, hour]
-=======
->>>>>>> fbd393844e58d28832b7794fbada854531f34938
+
 
 
 
