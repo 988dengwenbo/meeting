@@ -5,13 +5,14 @@ Created on 2018年3月1日
 @author: liujun
 '''
 import time, os
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.common.keys import Keys
+# from selenium.common import NoSuchElementException
+from selenium.webdriver.common import keys
 from selenium.webdriver.common.action_chains import ActionChains
 from comnon import com_module
 from comnon import time_module as tm
@@ -222,7 +223,7 @@ class WebClient():
         try:
             WebDriverWait(self.__driver, 10).until(
                 EC.presence_of_element_located((find_by, element_selector)))
-        except NoSuchElementException:
+        except :
             raise Exception("\nElementLoadingError:can't find element!")
 
     '''点击元素'''
@@ -257,19 +258,19 @@ class WebClient():
 
     def check_all_text(self, element_selector, find_by=By.CSS_SELECTOR):
         elem = self.get_element(element_selector, find_by)
-        elem.send_keys(Keys.CONTROL, 'a')
+        elem.send_keys(keys.CONTROL, 'a')
 
     '''删除控件中的文本内容'''
 
     def delete_elem_text(self, element_selector, find_by=By.CSS_SELECTOR):
         elem = self.get_element(element_selector, find_by)
-        elem.send_keys(Keys.BACK_SPACE)
+        elem.send_keys(keys.BACK_SPACE)
 
     '''输入框等，回车键'''
 
     def enter_key(self, element_selector, find_by=By.CSS_SELECTOR):
         elem = self.get_element(element_selector, find_by)
-        elem.send_keys(Keys.ENTER)
+        elem.send_keys(keys.ENTER)
 
     '''根据text在由ant组件实现的下拉列表中选择'''
 
