@@ -2,101 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2437a905-5c03-4829-83c1-fb02bef7b733" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comnon/open_broswer.py" beforeDir="false" afterPath="$PROJECT_DIR$/comnon/open_broswer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/common/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/common/exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/android/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/android/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/blackberry/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/blackberry/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/remote_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/action_chains.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/action_builder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/input_device.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/interaction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/key_actions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/key_input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/mouse_button.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/pointer_actions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/pointer_input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/alert.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/by.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/desired_capabilities.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/html5/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/html5/application_cache.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/keys.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/proxy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/touch_actions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/edge/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/edge/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/edge/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/edge/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/amd64/x_ignore_nofocus.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/extension_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/firefox_binary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/firefox_profile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/remote_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/webdriver.xpi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/webdriver_prefs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/webelement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/x86/x_ignore_nofocus.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/ie/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/ie/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/ie/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/ie/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/opera/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/opera/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/opera/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/phantomjs/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/phantomjs/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/phantomjs/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/command.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/file_detector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/getAttribute.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/isDisplayed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/mobile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/remote_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/switch_to.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/safari/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/safari/permissions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/safari/remote_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/safari/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/safari/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/abstract_event_listener.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/color.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/event_firing_webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/events.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/expected_conditions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/select.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/ui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/wait.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/webkitgtk/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/webkitgtk/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/webkitgtk/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/webkitgtk/webdriver.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/comnon/open_broswer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
                 <element signature="e#69#84#0" expanded="true" />
               </folding>
@@ -162,6 +68,8 @@
       <find>text</find>
       <find>滚动</find>
       <find>execu</find>
+      <find>Keys</find>
+      <find>NoSuchElementException</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -226,14 +134,7 @@
               <item name="smartmeeting" type="b2602c69:ProjectViewProjectNode" />
               <item name="smartmeeting" type="462c0819:PsiDirectoryNode" />
               <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="webdriver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smartmeeting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smartmeeting" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="webdriver" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="smartmeeting" type="b2602c69:ProjectViewProjectNode" />
@@ -448,7 +349,7 @@
       <workItem from="1566883835567" duration="794000" />
       <workItem from="1568171546990" duration="6285000" />
       <workItem from="1568250633548" duration="956000" />
-      <workItem from="1568254879254" duration="3784000" />
+      <workItem from="1568254879254" duration="4093000" />
     </task>
     <task id="LOCAL-00001" summary="hhhhhhh">
       <created>1565863824705</created>
@@ -506,7 +407,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568256470447</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="selenium环境配置修改">
+      <created>1568268126590</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568268126590</updated>
+    </task>
+    <task id="LOCAL-00010" summary="selenium环境配置修改">
+      <created>1568268275243</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568268275243</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -542,9 +457,9 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98422000" />
+    <option name="totallyTimeSpent" value="98731000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="5">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -555,18 +470,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17217484" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17217484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3275488" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275488" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49925372" weight="0.35900217" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49850747" weight="0.3293124" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -612,7 +526,8 @@
     <MESSAGE value="解决报错" />
     <MESSAGE value="解决openbroswer报错" />
     <MESSAGE value="youhua" />
-    <option name="LAST_COMMIT_MESSAGE" value="youhua" />
+    <MESSAGE value="selenium环境配置修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium环境配置修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -828,10 +743,17 @@
     <entry file="file://$PROJECT_DIR$/venv/Lib/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/webdriver/firefox/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="155" column="10" selection-start-line="155" selection-start-column="10" selection-end-line="155" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/comnon/open_broswer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
             <element signature="e#69#84#0" expanded="true" />
           </folding>
