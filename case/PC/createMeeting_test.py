@@ -10,7 +10,6 @@ class CreatMeeting(unittest.TestCase):
     def test_create_nomal_meeting(self):
         '''普通会议室创建一个会议,会议室名称为普通会议室'''
         '''获取当前时间'''
-<<<<<<< HEAD
 
         self.__driver = login_test.Login.test_login001()
         self.__driver.click_element(cM.yuyue)
@@ -36,7 +35,6 @@ class CreatMeeting(unittest.TestCase):
         self.__driver.click_element(cM.span)
         time.sleep(10)
 
-=======
         trick = time.time()
 
         print(trick)
@@ -60,7 +58,6 @@ class CreatMeeting(unittest.TestCase):
         # self.__driver.execute_js(js)
         # self.__driver.click_element(cM.li)
         # time.sleep(5)
->>>>>>> fbd393844e58d28832b7794fbada854531f34938
 
 
     def tearDown(self) -> None:
