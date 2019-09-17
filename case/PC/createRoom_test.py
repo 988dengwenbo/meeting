@@ -1,3 +1,5 @@
+#coding=utf8
+
 import unittest
 from comnon.open_broswer import WebClient
 from case.PC import login_test

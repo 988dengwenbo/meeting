@@ -35,7 +35,7 @@ class WebClient():
             self.__driver = webdriver.Chrome(abspath)
             self.__driver.maximize_window()
         else:
-            executable_path = os.path.abspath(r"C:\Users\wafer\AppData\Local\Google\Chrome\Application\chromedriver.exe")
+            executable_path = os.path.abspath(r"chromedriver")
             options = Options()
             # options.add_argument("start-fullscreen")
             options.add_argument('lang=zh_CN.UTF-8')
