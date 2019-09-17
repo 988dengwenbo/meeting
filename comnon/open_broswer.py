@@ -36,11 +36,12 @@ class WebClient():
             self.__driver.maximize_window()
         else:
             # executable_path = os.path.abspath(r"chromedriver")
+
             options = Options()
             # options.add_argument("start-fullscreen")
             options.add_argument('lang=zh_CN.UTF-8')
             # self.__driver = webdriver.Chrome(executable_path, chrome_options=options)
-            self.__driver = webdriver.Chrome(chrome_options=options)
+            self.__driver = webdriver.Chrome('/usr/local/chromedriver', chrome_options=options)
 
     '''启动chrome浏览器'''
 
