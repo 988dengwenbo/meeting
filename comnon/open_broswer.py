@@ -2,7 +2,7 @@
 '''
 Created on 2018年3月1日
 
-@author: 
+@author:
 '''
 import time, os
 
